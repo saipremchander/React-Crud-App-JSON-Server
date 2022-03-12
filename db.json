@@ -1,0 +1,42 @@
+{
+  "Students": [
+    {
+      "name": "Saiprem",
+      "age": "15",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "name": "swarna",
+      "age": "12",
+      "gender": "Female",
+      "id": 3
+    }
+  ],
+  "Teachers": [
+    {
+      "name": "Saiprem",
+      "age": "15",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "name": "saipremchander",
+      "age": "21",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "name": "Swathi",
+      "age": "23",
+      "gender": "Female",
+      "id": 5
+    },
+    {
+      "name": "jethin",
+      "age": "21",
+      "gender": "Male",
+      "id": 6
+    }
+  ]
+}

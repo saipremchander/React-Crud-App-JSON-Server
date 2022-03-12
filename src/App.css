@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #dcecfb47 !important ;
+}
+.box-display,
+.customnav {
+  background: rgb(255 255 255);
+  border-radius: 10px;
+  box-shadow: 12px 12px 12px #343a4047;
+  padding: 25px;
+}
+
+.customnav {
+  height: 80vh;
+}
+.w-100 {
+  width: 100% !important;
+  max-width: 80% !important;
+}
+ul li {
+  list-style-type: none;
+  border-bottom: dotted 1px rgb(146, 146, 146);
+}
+
+th,
+td,
+.nav-link {
+  font-size: 20px;
+  color: rgb(34, 34, 34);
+  font-weight: bold;
+}
